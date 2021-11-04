@@ -1,6 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/78966278?v=4" alt="drawing" width="30%"/>  
 
-[LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) | spaniascharalampos@gmail.com
+[LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) | [Chess](https://www.chess.com/member/spaniasch) | [BJJ](https://smoothcomp.com/en/profile/101916)  
+spaniascharalampos@gmail.com  
 
 #### Tools: 
 - Python (pandas, numpy, sklearn, seaborn, matplotlib, scipy)
@@ -8,7 +9,7 @@
 - R
 
 #### Currently busy with:
-- Reading [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes
+- Reading [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
 - Studying [Machine Learning for Beginners](https://instituteofcoding.org/courses/course/northumbria-university-machine-learning-for-beginners/)
 - Practicing [Brazilian jiu-jitsu](http://www.rick-young.co.uk/)
 
