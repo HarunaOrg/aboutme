@@ -1,16 +1,18 @@
 <img src="https://avatars.githubusercontent.com/u/78966278?v=4" alt="drawing" width="30%"/>  
 
-[Github](https://github.com/CSpanias) | [LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) 
+[LinkedIn](https://www.linkedin.com/in/charalamposspanias/) | [Kaggle](https://www.kaggle.com/cspanias) | spaniascharalampos@gmail.com
 
-*spaniascharalampos@gmail.com*
+#### Tools: 
+- Python (pandas, numpy, sklearn, seaborn, matplotlib, scipy)
+- Microsoft Office
+- R
 
-## Currently busy with:
-- Studying Data Analysis and Simulation (PGDip) & Data Science (BSc)
+#### Currently busy with:
 - Reading [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes
 - Studying [Machine Learning for Beginners](https://instituteofcoding.org/courses/course/northumbria-university-machine-learning-for-beginners/)
 - Practicing [Brazilian jiu-jitsu](http://www.rick-young.co.uk/)
 
-## Education
+#### Education
 - [Data Analysis & Simulation](https://www.hw.ac.uk/) (PGDip), HWU, 2021-2022    
 *Statistical data analysis techniques with application in the engineering and scientific fields*
 - [Data Science](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) (BSc), OU, 2021-2024  
@@ -24,7 +26,11 @@
 - [Éducation et motricité](https://f3s.unistra.fr/formations/licence-staps/education-et-motricite/) (BSc), STAPS Strasbourg, 2014-2017  
 *Distinction (16/20)*
 
-## Interested in: 
+#### Publications:
+- Position before submission? Techniques and tactics in competitive no-gi Brazilian Jiu-Jitsu (Under review)
+- [Anthropometric and Physiological Profile of Mixed Martial Art Athletes: A Brief Review](https://www.mdpi.com/2075-4663/7/6/146) (2019)  
+
+#### Interested in: 
 - Machine Learning
 - Artificial Intelligence
 - Combat Sports
