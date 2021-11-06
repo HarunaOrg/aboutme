@@ -10,7 +10,8 @@ spaniascharalampos@gmail.com
 
 #### Currently busy with:
 - Reading [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
-- Studying [Machine Learning for Beginners](https://instituteofcoding.org/courses/course/northumbria-university-machine-learning-for-beginners/)
+- Studying [Introduction to ML & AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
+- Studying [ML for Beginners](https://instituteofcoding.org/courses/course/northumbria-university-machine-learning-for-beginners/)
 - Practicing [Brazilian jiu-jitsu](http://www.rick-young.co.uk/)
 
 #### Education
