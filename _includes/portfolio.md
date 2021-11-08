@@ -10,14 +10,15 @@ spaniascharalampos@gmail.com
 
 #### Currently busy with:
 - Reading [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
+- Listening [Machine Learning Guide](https://ocdevel.com/mlg)
 - Studying [Introduction to ML & AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
-- Studying [ML for Beginners](https://instituteofcoding.org/courses/course/northumbria-university-machine-learning-for-beginners/)
+- Studying [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/)
 - Practicing [Brazilian jiu-jitsu](http://www.rick-young.co.uk/)
 
 #### Education
-- [Data Analysis & Simulation](https://www.hw.ac.uk/) (PGDip), HWU, 2021-2022    
+- **[Data Analysis & Simulation](https://www.hw.ac.uk/)** (PGDip), HWU, 2021-2022    
 *Statistical data analysis techniques with application in the engineering and scientific fields*
-- [Data Science](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) (BSc), OU, 2021-2024  
+- **[Data Science](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38)** (BSc), OU, 2021-2024  
 *First-year rolling average >90%*  
 *Relevant coursework: data management and analysis, machine learning and artificial intelligence, applied statistical modelling, optimization* 
 - [Strength & Conditioning](https://www.ed.ac.uk/education/graduate-school/taught-degrees/strength-conditioning) (MSc), UoE, 2018-2021  
