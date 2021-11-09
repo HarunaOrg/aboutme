@@ -9,11 +9,22 @@ spaniascharalampos@gmail.com
 - R
 
 #### Currently busy with:
-- Reading [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)
-- Listening [Machine Learning Guide](https://ocdevel.com/mlg)
-- Studying [Introduction to ML & AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
-- Studying [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/)
-- Practicing [Brazilian jiu-jitsu](http://www.rick-young.co.uk/)
+
+<img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
+
+- [Machine Learning Guide](https://ocdevel.com/mlg)   
+- [Talking Machines](http://www.thetalkingmachines.com/)  
+- [Learning Machines 101](https://www.learningmachines101.com/)  
+
+<img src="https://pic.onlinewebfonts.com/svg/img_216768.png" alt="studying" width="3%"/> 
+
+- [Introduction to ML & AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)  
+- [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/)  
+
+<img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
+
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)  
+- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)  
 
 #### Education
 - **[Data Analysis & Simulation](https://www.hw.ac.uk/)** (PGDip), HWU, 2021-2022    
