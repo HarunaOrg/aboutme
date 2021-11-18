@@ -20,7 +20,7 @@ spaniascharalampos@gmail.com
 
 - [Data Analysis & Simulation](https://www.hw.ac.uk/) (PGDip), HWU, 2021-2022    
 - [Data Science](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38) (BSc), OU, 2021-2024  
-- [Machine Learning](https://www.coursera.org/learn/machine-learning#about)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Skills Bootcamp in Artificial Intelligence](https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamp-in-artificial-intelligence/)  
 
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
