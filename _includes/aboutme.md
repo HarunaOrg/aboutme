@@ -25,7 +25,8 @@ spaniascharalampos@gmail.com
 
 <img src="https://www.clipartmax.com/png/full/218-2188573_reading-filled-icon-reading-logo-black-png.png" alt="reading" width="3%" />  
 
-- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e)  
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse2e) 
+- [Machine Learning for Absolute Beginners](https://www.amazon.co.uk/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1] 
 - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)  
 
 <img src="https://datarespons.com/wp-content/uploads/2019/01/podcast-icon.png" alt="podcast" width="3%" />  
